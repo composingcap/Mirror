@@ -1,0 +1,13 @@
+{
+  "name": "com.mirror.networking",
+  "displayName": "Mirror Networking",
+  "version": "96.6.4",
+  "description": "",
+  "unity": "2022.3",
+  "unityRelease": "15f1",
+  "author": {
+    "name": "Mirror",
+    "url": "https://github.com/MirrorNetworking/Mirror"
+  },
+  "licensesUrl": "https://github.com/MirrorNetworking/Mirror?tab=MIT-1-ov-file"
+}
